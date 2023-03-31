@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211173541135",
+    "project_id": "do-donate-f4524",
+    "storage_bucket": "do-donate-f4524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211173541135:android:879d6e02ccd73db2462a7a",
+        "android_client_info": {
+          "package_name": "com.example.fdapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211173541135-nn3e6jp1l5rru37f4dipo0s2vun3l05l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMEwOyQvES4EVGfCSJIMd3BpVi0cxzZLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211173541135-nn3e6jp1l5rru37f4dipo0s2vun3l05l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
