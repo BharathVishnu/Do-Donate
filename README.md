@@ -6,6 +6,7 @@
 Do watch the video https://youtu.be/ub51fpP4UWU
 
 ## Authors 
+ CODEX
 * @javads03
 * @darsankrishna
 * @anoop
@@ -45,4 +46,4 @@ Contributions to the project are welcome! If you find any bugs or have ideas for
 ## Contact
 If you have any questions or need support, contact us at codex2125@gmail.com
 
-Let's make a positive impact together by reducing food wastage and helping those in need with the Food Donation App!
+Let's make a positive impact together by reducing food wastage and helping those in need with Do Donate
