@@ -5,6 +5,11 @@
 ## Demo
 Do watch the video https://youtu.be/ub51fpP4UWU
 
+## Authors 
+@avads03
+@darsankrishna
+@anoop
+
  ## Features
  * Donation Feature: Allows users to donate surplus food items to those in need. Donors can post details about the available food items, quantity, and pickup location.
 
