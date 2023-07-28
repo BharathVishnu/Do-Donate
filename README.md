@@ -1,50 +1,43 @@
+# Food-Donation-App (Do Donate)
 
-# Do Donate
+ Do Donate is a mobile flutter application aimed at facilitating the donation and request of food items to help those in need. It provides a user-friendly interface for donors to contribute surplus food and for recipients to request food assistance. The app promotes the idea of reducing food wastage and supporting the less fortunate.
 
-A Food Donation App which connects the people who are in need of food to the people having surplus of food.
+## Demo
+Do watch the video https://youtu.be/ub51fpP4UWU
 
+ ## Features
+ * Donation Feature: Allows users to donate surplus food items to those in need. Donors can post details about the available food items, quantity, and pickup location.
 
-## Dependencies
-Flutter version : 3.7.9
-Android Studio : 2022.1.1
-Google Firebase Account 
-## Authors
+* Request Feature: Allows users in need to request food assistance. They can create a request specifying their location and the type of food items required.
 
-- [@javads03](https://www.github.com/javads03)
-- [@BharathVishnu](https://www.github.com/BharathVishnu)
-- [@darsankrishna](https://www.github.com/darsankrishna)
-- [@anoop5115](https://www.github.com/anoop5115)
+* User Profiles: Users can create accounts and log in to manage their donation and request history.
 
 
+## Technologies Used
+* Flutter: A popular cross-platform mobile app development framework for building the app on both Android and iOS platforms.
+
+* Firebase: The backend service for user authentication, real-time database storage, and cloud messaging.
 
 
-## Installation
+## Getting Started
+To run the app on your local machine, follow these steps:
 
-You need to connect device with USB Cable
+* Install Flutter: Make sure you have Flutter installed on your computer. Follow the instructions on the official Flutter website to get started.
 
-Enable Developer Option & USB Debugging from device settings
-If you’re not finding developer option,
-goto about phone, tap build number for multiple times
+* Set up Firebase: Create a Firebase project and configure the necessary services like Authentication and Real-time Database.
 
-Execute `flutter devices` to check connected devices
+* Clone the Repository: Clone this repository to your local machine using Git.
 
-Execute `flutter run` to run your app on device
+* Connect Firebase: Add your Firebase configuration files to the project, ensuring the app is properly connected to Firebase services.
+
+* Run the App: Use the 'flutter run' command to launch the app on a connected Android or iOS device/emulator.
 
 
-## SplashScreen
-![splashscreen](https://github.com/BharathVishnu/Do-Donate/blob/master/fdapp/assets/splash.jpg)
 
-## SignIn Page
-![signin](https://github.com/BharathVishnu/Do-Donate/blob/master/fdapp/assets/In.jpg)
+## Contributing
+Contributions to the project are welcome! If you find any bugs or have ideas for additional features, feel free to create a pull request or open an issue.
 
-## SignUp Page
-![signup](https://github.com/BharathVishnu/Do-Donate/blob/master/fdapp/assets/Up.jpg)
+## Contact
+If you have any questions or need support, contact us at codex2125@gmail.com
 
-## Home Page
-![home](https://github.com/BharathVishnu/Do-Donate/blob/master/fdapp/assets/Profile.jpg)
-
-## Donate Page
-![donate](https://github.com/BharathVishnu/Do-Donate/blob/master/fdapp/assets/Donate.jpg)
-
-## Request Page
-![request](https://github.com/BharathVishnu/Do-Donate/blob/master/fdapp/assets/Request.jpg)
+Let's make a positive impact together by reducing food wastage and helping those in need with the Food Donation App!
