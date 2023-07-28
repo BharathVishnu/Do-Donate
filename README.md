@@ -6,7 +6,7 @@
 Do watch the video https://youtu.be/ub51fpP4UWU
 
 ## Authors 
-* @avads03
+* @javads03
 * @darsankrishna
 * @anoop
 
